@@ -1,0 +1,37 @@
+.header {
+    background-color: black;
+}
+
+.menu {
+    display: flex;
+    justify-content:space-around;
+    flex-wrap: wrap;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: white;
+}
+
+.origami img{
+    border: solid black 2px;
+    border-radius: 50px;
+    background-color: coral;
+    align-self: center;
+}
+
+.grid {
+    border-radius: 20px;
+    background-color: white;
+    padding: 30px;
+    margin: 25px;
+    width: 310px;
+    background-color: darkolivegreen;
+}
+
+.origami {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+body {
+    margin: 0px;
+}
